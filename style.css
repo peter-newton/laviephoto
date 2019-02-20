@@ -1,0 +1,18 @@
+.ui.borderless.menu{
+  background-color: #fff;
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+}
+.ui.borderless.middle.menu{
+  background-color: #fff;
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+  text-align: center;
+}
+.ui.borderless.footer.menu {
+  background-color: #fff;
+  box-shadow: none;
+  border: none;
+}
